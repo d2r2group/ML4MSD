@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "index.html#course-summary",
+    "href": "index.html#course-summary",
+    "title": "ME 5374-ST – Machine Learning for Materials Science and Discovery",
+    "section": "Course Summary",
+    "text": "Course Summary\nMachine Learning (ML) for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous."
+  },
+  {
+    "objectID": "content/final_project.html#topics",
+    "href": "content/final_project.html#topics",
+    "title": "Projects",
+    "section": "Topics",
+    "text": "Topics\nThe topic selection takes place on a Google Sheet (link will be provided later) in which you can select from a list of topics or come up with your own topic.\nIdeally, there will be 1 topic per student.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#deliverables",
+    "href": "content/final_project.html#deliverables",
+    "title": "Projects",
+    "section": "Deliverables",
+    "text": "Deliverables\nDetails will be added here soon.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#timeline",
+    "href": "content/final_project.html#timeline",
+    "title": "Projects",
+    "section": "Timeline",
+    "text": "Timeline\nDetails will be added soon.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#evaluation",
+    "href": "content/final_project.html#evaluation",
+    "title": "Projects",
+    "section": "Evaluation",
+    "text": "Evaluation\nDetails will be added soon.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/other.html#attendance",
+    "href": "content/other.html#attendance",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Attendance",
+    "text": "Attendance\nAttendance is an important element for success in class. It is required, unless you are unable to make it due to illness or other urgent or emergent reasons. Contact me via email before the class time for allowed absence, unless you are unable to. Here is the section from the student handbook:\n\n\nStudents will not be penalized for excused absences, with the understanding that students may need to make up for the academic commitment from which they were excused. Reasons for an excused absence include religious, medical issues, jury duty, bereavement, and military service. See the course catalog and other applicable policies for the full attendance and excusal policy.",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/other.html#academic-rights-and-responsibilities",
+    "href": "content/other.html#academic-rights-and-responsibilities",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Academic Rights and Responsibilities",
+    "text": "Academic Rights and Responsibilities\nFor graduate studies, the student bill of academic rights and responsibilities can be found here. Please, briefly read through it if you haven’t done so in the past.",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/other.html#academic-integrity",
+    "href": "content/other.html#academic-integrity",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nA commitment to the principles of academic integrity is essential to the mission of Northeastern University. The promotion of independent and original scholarship ensures that students derive the most from their educational experience and their pursuit of knowledge. Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.\nAs members of the academic community, students must become familiar with their rights and responsibilities. In each course, they are responsible for knowing the requirements and restrictions regarding research and writing, examinations of whatever kind, collaborative work, the use of study aids, the appropriateness of assistance, and other issues. Students are responsible for learning the conventions of documentation and acknowledgment of sources in their fields. Northeastern University expects students to complete all examinations, tests, papers, creative projects, and assignments of any kind according to the highest ethical standards, as set forth either explicitly or implicitly in this Code or by the direction of instructors. Go to following link to access the full academic integrity policy: osccr.sites.northeastern.edu/academic-integrity-policy/. Specific examples of violating academic integrity in this course are the following (list not exhaustive):\n\nCopying another student’s homework solutions (a reasonable amount of collaboration among students is permitted, however not direct copying) or from online solutions\nUtilizing/acquiring/sharing homework/exam solutions from previous years\nCheating during exams\nNot citing sources/figures appropriately when writing the project paper (also, see the next section of utilization of generative AI)",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/other.html#utilization-of-generative-ai",
+    "href": "content/other.html#utilization-of-generative-ai",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Utilization of Generative AI",
+    "text": "Utilization of Generative AI\nGenerative AI tools such as ChatGPT or Bard have become widely adopted and I encourage students to (learn to) use it. However, similar to using Google to search for information, it is up to the student to decide which output is trustworthy/correct and which is false (“hallucinated” information). I therefore recommend always taking any output from generative AI with a healthy amount of scepticism and double-check other sources (and common reasoning) to verify and tweak the final output. Rarely is it advisable to directly copy-paste information from generative AI and use it as a final answer. For final project papers initial generative AI outputs to prompts have to be submitted alongside the final paper (to assess how effectively you took use of generative AI) - this enables me to grade your critical thinking skills and development of a subject. Details regarding this policy will be discussed during the semester.",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/other.html#student-accommodation",
+    "href": "content/other.html#student-accommodation",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Student Accommodation",
+    "text": "Student Accommodation\nNortheastern University and the Disability Access Services (DAS) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through the DAS, students must provide appropriate documentation that demonstrates a current substantially limiting disability. For more information, visit disabilityaccessservices.northeastern.edu/.",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/other.html#diversity-and-inclusion",
+    "href": "content/other.html#diversity-and-inclusion",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Diversity and Inclusion",
+    "text": "Diversity and Inclusion\nNortheastern University is committed to equal opportunity, affirmative action, diversity and social justice while building a climate of inclusion on and beyond campus. In the classroom, members of the University community work to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness of global perspectives on social justice. It is my intention that students from all backgrounds and perspectives will be well served by this course, and that the diversity that students bring to this class will be viewed as an asset. I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, socioeconomic background, family education level, ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Your suggestions are encouraged and appreciated.\nPlease visit belonging.northeastern.edu for complete information on Diversity, Equity, and Inclusion.",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/other.html#title-ix",
+    "href": "content/other.html#title-ix",
+    "title": "Guidelines, Expectations, and Rights",
+    "section": "Title IX",
+    "text": "Title IX\nTitle IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff. In case of an emergency, please call NUPD at 617 373 3333. Please visit ouec.northeastern.edu for a complete list of reporting options and resources both on- and off-campus.",
+    "crumbs": [
+      "Guidelines"
+    ]
+  },
+  {
+    "objectID": "content/grading.html#final-grade-breakdown",
+    "href": "content/grading.html#final-grade-breakdown",
+    "title": "Grading",
+    "section": "Final Grade Breakdown",
+    "text": "Final Grade Breakdown\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n10\nHomework Assignments\n\n\n30\nPaper presentation\n\n\n25\nGroup project\n\n\n30\nFinal project (individual)\n\n\n\n\n\n\n\n\n\nLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.",
+    "crumbs": [
+      "Grading"
+    ]
+  },
+  {
+    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "title": "Grading",
+    "section": "Final Percentage Score to Letter Grade Conversion",
+    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\nFinal percentage Score\nLetter grade\n4.0 Scale\n\n\n\n\n93-100\nA\n4.0\n\n\n90-92\nA-\n3.7\n\n\n87-89\nB+\n3.3\n\n\n83-86\nB\n3.0\n\n\n80-82\nB-\n2.7\n\n\n77-79\nC+\n2.3\n\n\n73-76\nC\n2.0\n\n\n70-72\nC-\n1.7\n\n\n&lt;70\nF\n0.0",
+    "crumbs": [
+      "Grading"
+    ]
+  },
+  {
+    "objectID": "content/info.html#basic-information",
+    "href": "content/info.html#basic-information",
+    "title": "Course Information",
+    "section": "Basic information",
+    "text": "Basic information\nTerm: Fall 2025\nDate/Time: Tuesdays, 11:45-1:25 and Thursdays 2:50-4:30\nLocation: Ryder Hall 153\nCredits: 4 semester-hours",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#instructor-contact",
+    "href": "content/info.html#instructor-contact",
+    "title": "Course Information",
+    "section": "Instructor Contact",
+    "text": "Instructor Contact\n\n\nName: Asst. Prof. Peter Schindler (you can call me Prof. Peter, Professor, or Dr. Peter)\nEmail: p.schindler (at) northeastern.edu\nOffice Location: 275 SN\nOffice Hours: Thursdays, 4:30 pm.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#prerequisites",
+    "href": "content/info.html#prerequisites",
+    "title": "Course Information",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThere are no formal prerequisites for this course. However, an undergraduate level understanding of materials science and basic coding skills in Python can be beneficial. Python will be introduced during the first two weeks through an intensive crash course. In addition, core atomistic and materials science concepts will be (re)introduced by week 4. No prior experience in machine learning is required.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#course-format",
+    "href": "content/info.html#course-format",
+    "title": "Course Information",
+    "section": "Course Format",
+    "text": "Course Format\nThe course will begin with lectures and interactive Python demonstrations during the first two-thirds of the semester, followed by student-led presentations of recent papers, guest lectures by experts, and final project presentations in the final third of the semester. Code, slides, and homework assignments will be shared on GitHub. One group project, one individual project, and a recent paper presentation will ensure that students learn state-of-the-art materials informatics skills and can conduct research in this new domain independently. The results obtained in the group project are targeted to be published in a peer-reviewed journal.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#who-is-this-for",
+    "href": "content/info.html#who-is-this-for",
+    "title": "Course Information",
+    "section": "Who is this for?",
+    "text": "Who is this for?\nThis course may be of interest to students of various backgrounds, for example, for students with a background in\n\nengineering/materials/chemistry/physics who have little coding experience but want to learn about how they can use machine learning in materials science & chemistry.\ncomputer science (i.e., experienced with coding) but little to no background in materials who want to learn about how machine learning can be applied in the materials science & chemistry domain.\nexperimental research in the lab with little coding experience, who want to learn how they can use Python to complement their experimental work.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#resources",
+    "href": "content/info.html#resources",
+    "title": "Course Information",
+    "section": "Resources",
+    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.):\nMore iformation will be added shortly.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#learning-outcomes",
+    "href": "content/info.html#learning-outcomes",
+    "title": "Course Information",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nExplain the fundamentals of ML and its relevance to materials science.\nAnalyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.\nUse Pymatgen to analyze and manipulate crystal structures.\nAccess and use APIs like the Materials Project for materials data retrieval.\nIdentify and categorize common data types in materials science from both experimental and computational sources.\nPerform featurization of materials data for use in ML models.\nTrain models with packages like scikit-learn and PyTorch.\nInterpret the output of ML models in the context of materials discovery and design.\nDesign and implement research projects applying ML to real-world materials problems.\nExplore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.\nBuild foundational Python programming skills, including object-oriented programming.\nUse GitHub and VSCode for version control, collaboration, and project development.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/syllabus.html",
+    "href": "content/syllabus.html",
+    "title": "Outline (Tentative)",
+    "section": "",
+    "text": "Week\nDay\nTopic\n\n\n\n\n1\n1\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n2\n1\nPython Crash Course\n\n\n2\n2\nData in Python: Numpy, Pandas, and Matplotlib\n\n\n3\n1\nMachine Learning Basics 1\n\n\n3\n2\nMachine Learning Basics 2\n\n\n4\n1\nTypes of Data in Materials Science\n\n\n4\n2\nCrystallography Crash Course and Pymatgen\n\n\n5\n1\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n5\n2\nWorking with APIs (Materials Project)\n\n\n6\n1\nProject Discussions\n\n\n6\n2\nComputational Materials Properties 1\n\n\n7\n1\nComputational Materials Properties 2\n\n\n7\n2\nFeaturization of Materials 1\n\n\n8\n1\nFeaturization of Materials 2\n\n\n8\n2\nDeep Learning 1\n\n\n9\n1\nDeep Learning 2\n\n\n9\n2\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n10\n1\nLarge-Language Models (LLMs) and Generative AI in Materials Science\n\n\n10\n2\nStudent Paper Presentations\n\n\n11\n1\nVeteran’s Day (no class)\n\n\n11\n2\nStudent Paper Presentations\n\n\n12\n1\nGuest Speaker\n\n\n12\n2\nGuest Speaker\n\n\n13\n1\nGuest Speaker\n\n\n13\n2\nThanksgiving recess (no class)\n\n\n14\n1\nGuest Speaker\n\n\n14\n2\nFinal project presentations (in-class)\n\n\n15\n1\nFinal project presentations (in-class)",
+    "crumbs": [
+      "Outline"
+    ]
+  }
+]
