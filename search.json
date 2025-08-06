@@ -4,7 +4,7 @@
     "href": "index.html#course-summary",
     "title": "ME 5374-ST – Machine Learning for Materials Science and Discovery",
     "section": "Course Summary",
-    "text": "Course Summary\nMachine Learning (ML) for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous."
+    "text": "Course Summary\nMachine Learning for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous."
   },
   {
     "objectID": "content/final_project.html#topics",
@@ -161,7 +161,7 @@
     "href": "content/info.html#prerequisites",
     "title": "Course Information",
     "section": "Prerequisites",
-    "text": "Prerequisites\nThere are no formal prerequisites for this course. However, an undergraduate level understanding of materials science and basic coding skills in Python can be beneficial. Python will be introduced during the first two weeks through an intensive crash course. In addition, core atomistic and materials science concepts will be (re)introduced by week 4. No prior experience in machine learning is required.",
+    "text": "Prerequisites\nThere are no formal prerequisites for this course. However, an undergraduate level understanding of materials science and basic coding skills in Python can be beneficial. Python will be introduced during the first two weeks through an intensive crash course. In addition, core atomistic and materials science concepts will be (re)introduced by week 4. No prior experience in machine learning (ML) is required.",
     "crumbs": [
       "Information"
     ]
@@ -171,7 +171,7 @@
     "href": "content/info.html#course-format",
     "title": "Course Information",
     "section": "Course Format",
-    "text": "Course Format\nThe course will begin with lectures and interactive Python demonstrations during the first two-thirds of the semester, followed by student-led presentations of recent papers, guest lectures by experts, and final project presentations in the final third of the semester. Code, slides, and homework assignments will be shared on GitHub. One group project, one individual project, and a recent paper presentation will ensure that students learn state-of-the-art materials informatics skills and can conduct research in this new domain independently. The results obtained in the group project are targeted to be published in a peer-reviewed journal.",
+    "text": "Course Format\nThe course will begin with lectures and interactive Python demonstrations during the first two-thirds of the semester, followed by student-led presentations of recent papers, guest lectures by experts, and final project presentations in the final third of the semester. Code, slides, and homework assignments will be shared on GitHub. One group project, one individual project, and a recent paper presentation will ensure that students learn state-of-the-art materials informatics skills and can conduct research independently in this new domain. The results obtained in the group project are targeted to be published in a peer-reviewed journal.",
     "crumbs": [
       "Information"
     ]
@@ -181,7 +181,7 @@
     "href": "content/info.html#who-is-this-for",
     "title": "Course Information",
     "section": "Who is this for?",
-    "text": "Who is this for?\nThis course may be of interest to students of various backgrounds, for example, for students with a background in\n\nengineering/materials/chemistry/physics who have little coding experience but want to learn about how they can use machine learning in materials science & chemistry.\ncomputer science (i.e., experienced with coding) but little to no background in materials who want to learn about how machine learning can be applied in the materials science & chemistry domain.\nexperimental research in the lab with little coding experience, who want to learn how they can use Python to complement their experimental work.",
+    "text": "Who is this for?\nThis course may be of interest to students of various backgrounds, for example, for students with a background in\n\nengineering/materials/chemistry/physics who have little coding experience but want to learn about how they can use ML in materials science & chemistry.\ncomputer science (i.e., experienced with coding) but little to no background in materials who want to learn about how machine ML can be applied in materials science & chemistry.\nexperimental research in the lab with little coding experience, who want to learn how they can use Python to complement their experimental work.",
     "crumbs": [
       "Information"
     ]
@@ -191,7 +191,7 @@
     "href": "content/info.html#resources",
     "title": "Course Information",
     "section": "Resources",
-    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.):\n\nMachine Learning in Materials Science, Keith T. Butler, Felipe Oviedo and Pieremanuele Canepa, ACS (2022). Link (free with NEU login)\nMachine Learning Refined, Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos, 2nd Edition (2024). Link (free)\nUnderstanding Deep Learning, Simon J.D. Prince, The MIT Press (2023). Link (free)\nDeep Learning for Molecules and Materials, White, Andrew D, Living Journal of Computational Molecular Science (2021). Link (free)\n\nFurther detailed resources and readings on Python and ML will be shared alongside the course material.",
+    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.) and free online resources:\n\nMachine Learning in Materials Science, Keith T. Butler, Felipe Oviedo and Pieremanuele Canepa, ACS (2022). Link (free with NEU login)\nMachine Learning Refined, Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos, 2nd Edition (2024). Link (free)\nUnderstanding Deep Learning, Simon J.D. Prince, The MIT Press (2023). Link (free)\nDeep Learning for Molecules and Materials, Andrew D. White, Living Journal of Computational Molecular Science (2021). Link (free)\n\nFurther detailed resources and readings on Python and ML will be shared alongside the course material.",
     "crumbs": [
       "Information"
     ]
