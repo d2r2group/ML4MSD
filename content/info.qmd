@@ -1,0 +1,83 @@
+---
+title: Course Information
+---
+
+## Basic information
+
+**Term**: Fall 2025\
+**Date/Time**: Tuesdays, 11:45-1:25 and Thursdays 2:50-4:30\
+**Location**: Ryder Hall 153\
+**Credits**: 4 semester-hours\
+
+## Instructor Contact
+
+:::: {.columns}
+
+::: {.column width="70%"}
+**Name**: Asst. Prof. Peter Schindler (you can call me *Prof. Peter*, *Professor*, or *Dr. Peter*)\
+**Email**: p.schindler (at) northeastern.edu\
+**Office Location**: 275 SN\
+**Office Hours**: Thursdays, 4:30 pm.\
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+![](../images/ps.jpg)
+:::
+
+::::
+
+## Prerequisites
+
+There are **no formal prerequisites for this course**. However, an undergraduate level understanding of materials science and basic coding 
+skills in Python can be beneficial. Python will be introduced during the first two weeks through an intensive crash course. In addition, 
+core atomistic and materials science concepts will be (re)introduced by week 4.<br>
+**No prior experience in machine learning is required.**
+
+
+## Course Format
+
+The course will begin with lectures and **interactive Python demonstrations** during the first two-thirds of the semester, followed by 
+student-led presentations of recent papers, **guest lectures by experts**, and final project presentations in the final third of the 
+semester. Code, slides, and homework assignments will be shared on GitHub. One group project, one individual project, and a recent 
+paper presentation will ensure that students learn state-of-the-art materials informatics skills and can conduct research in this 
+new domain independently. The results obtained in the group project are targeted to be **published in a peer-reviewed journal**.
+
+## Who is this for?
+
+This course may be of interest to students of **various backgrounds**, for example, for students with a background in
+
+- engineering/materials/chemistry/physics who have little coding experience but want to learn about how they can use machine learning in  materials science \& chemistry.
+- computer science (i.e., experienced with coding) but little to no background in materials who want to learn about how machine learning can be applied in the materials science \& chemistry domain.
+- experimental research in the lab with little coding experience, who want to learn how they can use Python to complement their experimental work.
+
+## Resources
+
+Materials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not 
+an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of 
+various aspects of this field (ML, Python, data science, materials science, etc.):
+
+More iformation will be added shortly.
+
+
+## Learning Outcomes
+By the end of this course, students will be able to:
+
+- Explain the fundamentals of ML and its relevance to materials science.
+- Analyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.
+- Use Pymatgen to analyze and manipulate crystal structures.
+- Access and use APIs like the Materials Project for materials data retrieval.
+- Identify and categorize common data types in materials science from both experimental and computational sources.
+- Perform featurization of materials data for use in ML models.
+- Train models with packages like scikit-learn and PyTorch.
+- Interpret the output of ML models in the context of materials discovery and design.
+- Design and implement research projects applying ML to real-world materials problems.
+- Explore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.
+- Build foundational Python programming skills, including object-oriented programming.
+- Use GitHub and VSCode for version control, collaboration, and project development.
+
+
+

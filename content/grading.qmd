@@ -1,0 +1,37 @@
+---
+title: Grading
+---
+
+## Final Grade Breakdown
+
+| Percentage of Final Grade |  Individual Grade Contribution |
+| :----- | :----- |
+| 5  |    In-class participation |
+| 10  | Homework Assignments |
+| 30  | Paper presentation  |
+| 25  | Group project |
+| 30 | Final project (individual) |
+
+::: {.callout-important title="Late Homework Policy"}
+All assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).
+
+- Assignments turned in one day late will be penalized by 10%.
+- Assignments turned in two days late will be penalized by 20%.
+- After two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.
+
+:::
+
+
+## Final Percentage Score to Letter Grade Conversion
+
+| Final percentage Score |  Letter grade | 4.0 Scale |
+| :----- | :----- | :----- |
+| 93-100 | A | 4.0 |
+| 90-92 | A- | 3.7 |
+| 87-89 | B+ | 3.3 |
+| 83-86 | B | 3.0 |
+| 80-82 | B- | 2.7 |
+| 77-79 | C+ | 2.3 |
+| 73-76 | C | 2.0 |
+| 70-72 | C- | 1.7 |
+| <70 | F | 0.0 |
