@@ -6,7 +6,7 @@ page-layout: full
 
 ## Course Summary
 
-Machine Learning (ML) for Materials Science and Discovery is a 4 semester-hour special topics graduate course. 
+Machine Learning for Materials Science and Discovery is a 4 semester-hour special topics graduate course. 
 It covers the basics of machine learning and data science as it applies to materials science problems. Large 
 materials databases, like the Materials Project, are utilized interactively. Common data types originating 
 from computational and experimental methods are surveyed. The materials informatics paradigm is introduced 
