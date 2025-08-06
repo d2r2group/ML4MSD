@@ -191,7 +191,7 @@
     "href": "content/info.html#resources",
     "title": "Course Information",
     "section": "Resources",
-    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.):\nMore iformation will be added shortly.",
+    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.):\n\nMachine Learning in Materials Science, Keith T. Butler, Felipe Oviedo and Pieremanuele Canepa, ACS (2022). Link (free with NEU login)\nMachine Learning Refined, Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos, 2nd Edition (2024). Link (free)\nUnderstanding Deep Learning, Simon J.D. Prince, The MIT Press (2023). Link (free)\nDeep Learning for Molecules and Materials, White, Andrew D, Living Journal of Computational Molecular Science (2021). Link (free)\n\nFurther detailed resources and readings on Python and ML will be shared alongside the course material.",
     "crumbs": [
       "Information"
     ]
