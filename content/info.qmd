@@ -60,7 +60,12 @@ Materials Informatics is a new and rapidly evolving field and hence, conventiona
 an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of 
 various aspects of this field (ML, Python, data science, materials science, etc.):
 
-More iformation will be added shortly.
+- *Machine Learning in Materials Science*, Keith T. Butler, Felipe Oviedo and Pieremanuele Canepa, ACS (2022). [Link (free with NEU login)](https://doi.org/10.1021/acsinfocus.7e5033)
+- *Machine Learning Refined*, Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos, 2nd Edition (2024). [Link (free)](https://github.com/neonwatty/machine-learning-refined)
+- *Understanding Deep Learning*, Simon J.D. Prince, The MIT Press (2023). [Link (free)](https://udlbook.github.io/udlbook/)
+- *Deep Learning for Molecules and Materials*, White, Andrew D, Living Journal of Computational Molecular Science (2021). [Link (free)](https://dmol.pub)
+
+Further detailed resources and readings on Python and ML will be shared alongside the course material.
 
 
 ## Learning Outcomes
