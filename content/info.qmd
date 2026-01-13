@@ -71,18 +71,4 @@ Further detailed resources and readings on Python and ML will be shared alongsid
 ## Learning Outcomes
 By the end of this course, students will be able to:
 
-- Explain the fundamentals of ML and its relevance to materials science.
-- Analyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.
-- Use Pymatgen to analyze and manipulate crystal structures.
-- Access and use APIs like the Materials Project for materials data retrieval.
-- Identify and categorize common data types in materials science from both experimental and computational sources.
-- Perform featurization of materials data for use in ML models.
-- Train models with packages like scikit-learn and PyTorch.
-- Interpret the output of ML models in the context of materials discovery and design.
-- Design and implement research projects applying ML to real-world materials problems.
-- Explore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.
-- Build foundational Python programming skills, including object-oriented programming.
-- Use GitHub and VSCode for version control, collaboration, and project development.
-
-
-
+{{< include learning_objectives_list.qmd >}}

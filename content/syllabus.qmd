@@ -1,36 +1,6 @@
 ---
-title: Outline (Tentative)
+title: Outline (Fall 2025)
 ---
 
-| Week | Day | Topic|
-| :--- | :--- | :--- |
-| 1 | 1 | Introduction and Getting Started (GitHub and VSCode) |
-| 2 | 1 | Python Crash Course |
-| 2 | 2 | Data in Python: Numpy, Pandas, and Matplotlib |
-| 3 | 1 | Machine Learning Basics 1 |
-| 3 | 2 | Machine Learning Basics 2 |
-| 4 | 1 | Types of Data in Materials Science |
-| 4 | 2 | Crystallography Crash Course and Pymatgen |
-| 5 | 1 | Object-Oriented Programming Illustrated with Pymatgen |
-| 5 | 2 | Working with APIs (Materials Project) |
-| 6 | 1 | *Project Discussions* |
-| 6 | 2 | Computational Materials Properties 1 |
-| 7 | 1 | Computational Materials Properties 2 |
-| 7 | 2 | Featurization of Materials 1 |
-| 8 | 1 | Featurization of Materials 2 |
-| 8 | 2 | Deep Learning 1 |
-| 9 | 1 | Deep Learning 2 |
-| 9 | 2 | Machine Learning Interatomic Potentials (MLIPs) |
-| 10 | 1 | Large-Language Models (LLMs) and Generative AI in Materials Science |
-| 10 | 2 | **Student Paper Presentations** |
-| 11 | 1 | <span style="color:gray">Veteran’s Day (no class)</span> |
-| 11 | 2 | **Student Paper Presentations** |
-| 12 | 1 | *Guest Speaker* |
-| 12 | 2 | *Guest Speaker* |
-| 13 | 1 | *Guest Speaker* |
-| 13 | 2 | <span style="color:gray">Thanksgiving recess (no class)</span> |
-| 14 | 1 | *Guest Speaker* |
-| 14 | 2 | **Final project presentations (in-class)** |
-| 15 | 1 | **Final project presentations (in-class)** |
-
-: {tbl-colwidths="[10,10,80]"}
+{{< include syllabus_table.qmd >}}
+: {tbl-colwidths="[10,15,60,15]"}

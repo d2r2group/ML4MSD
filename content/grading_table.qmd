@@ -1,0 +1,7 @@
+| **Percentage of Final Grade** |  **Individual Grade Contribution** |
+| :--- | :--- |
+| **5%** | In-class participation |
+| **10%** | Homework Assignments |
+| **30%** | Paper presentation |
+| **25%** | Group project |
+| **30%** | Final project (individual) |

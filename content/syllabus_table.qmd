@@ -1,0 +1,30 @@
+| Week | Date | Topic | Homework Due |
+| :--- | :--- | :--- | :--- |
+| 1 | Thu, 09/04 | Introduction and Getting Started (GitHub and VSCode) |   |
+| 2 | Tue, 09/09 | Python Crash Course 1 |   |
+| 2 | Thu, 09/11 | Python Crash Course 2 |   |
+| 3 | Tue, 09/16 | Data Science Basics with Numpy, Pandas, and Matplotlib |   |
+| 3 | Thu, 09/18 | Machine Learning Basics 1 |   |
+| 4 | Tue, 09/23 | Machine Learning Basics 2 | HW1 |
+| 4 | Thu, 09/25 | Crystallography Crash Course and Pymatgen |   |
+| 5 | Tue, 09/30 | Object-Oriented Programming Illustrated with Pymatgen |   |
+| 5 | Thu, 10/02 | Data-Types and Databases in Materials Science |   |
+| 6 | Tue, 10/07 | Featurization of Materials | HW2 |
+| 6 | Thu, 10/09 | Demonstration of Full ML Pipeline with a Materials Science Database |   |
+| 7 | Tue, 10/14 | *Project Discussions* | HW3 |
+| 7 | Thu, 10/16 | Computational Materials Properties 1 |   |
+| 8 | Tue, 10/21 | Computational Materials Properties 2 | HW4 |
+| 8 | Thu, 10/23 | Deep Learning |   |
+| 9 | Tue, 10/28 | Machine Learning Interatomic Potentials (MLIPs) |   |
+| 9 | Thu, 10/30 | *Large-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)* |   |
+| 10 | Tue, 11/04 | **Student Paper Presentations** |   |
+| 10 | Thu, 11/06 | **Student Paper Presentations** |   |
+| 11 | Tue, 11/11 | <span style="color:gray">Veteran’s Day (no class)</span> |   |
+| 11 | Thu, 11/13 | <span style="color:gray">Prof. Peter Traveling (no class)</span> |   |
+| 12 | Tue, 11/18 | *Leveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)* |   |
+| 12 | Thu, 11/20 | *LLMs for Text Classification (Dr. Emad Rezaei)* |   |
+| 13 | Tue, 11/25 | *ML for High Entropy Alloys (Prof. James Chapman)* | HW5 |
+| 13 | Thu, 11/27 | <span style="color:gray">Thanksgiving recess (no class)</span> |   |
+| 14 | Tue, 12/02 | **Final project presentations (in-class)** |   |
+| 14 | Thu, 12/04 | **Final project presentations (in-class)** |   |
+| 15 | Tue, 12/09 | **Final project presentations (in-class)** |   |
