@@ -1,10 +1,107 @@
 [
   {
-    "objectID": "index.html#course-summary",
-    "href": "index.html#course-summary",
-    "title": "ME 5374-ST – Machine Learning for Materials Science and Discovery",
-    "section": "Course Summary",
-    "text": "Course Summary\nMachine Learning for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous."
+    "objectID": "content/grading.html#final-grade-breakdown",
+    "href": "content/grading.html#final-grade-breakdown",
+    "title": "Grading",
+    "section": "Final Grade Breakdown",
+    "text": "Final Grade Breakdown\n\n\n\n\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5%\nIn-class participation\n\n\n10%\nHomework Assignments\n\n\n30%\nPaper presentation\n\n\n25%\nGroup project\n\n\n30%\nFinal project (individual)\n\n\n\n\n\n\n\n\n\nImportantLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.",
+    "crumbs": [
+      "Grading"
+    ]
+  },
+  {
+    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "title": "Grading",
+    "section": "Final Percentage Score to Letter Grade Conversion",
+    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\n\n\n\n\n\nFinal Percentage Score\nLetter Grade\n4.0 Scale\n\n\n\n\n93–100\nA\n4.0\n\n\n90–92\nA-\n3.7\n\n\n87–89\nB+\n3.3\n\n\n83–86\nB\n3.0\n\n\n80–82\nB-\n2.7\n\n\n77–79\nC+\n2.3\n\n\n73–76\nC\n2.0\n\n\n70–72\nC-\n1.7\n\n\n&lt;70\nF\n0.0",
+    "crumbs": [
+      "Grading"
+    ]
+  },
+  {
+    "objectID": "content/grading_table.html",
+    "href": "content/grading_table.html",
+    "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
+    "section": "",
+    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5%\nIn-class participation\n\n\n10%\nHomework Assignments\n\n\n30%\nPaper presentation\n\n\n25%\nGroup project\n\n\n30%\nFinal project (individual)"
+  },
+  {
+    "objectID": "content/info.html#basic-information",
+    "href": "content/info.html#basic-information",
+    "title": "Course Information",
+    "section": "Basic information",
+    "text": "Basic information\nTerm: Fall 2025\nDate/Time: Tuesdays, 11:45-1:25 and Thursdays 2:50-4:30\nLocation: Ryder Hall 153\nCredits: 4 semester-hours",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#instructor-contact",
+    "href": "content/info.html#instructor-contact",
+    "title": "Course Information",
+    "section": "Instructor Contact",
+    "text": "Instructor Contact\n\n\nName: Asst. Prof. Peter Schindler (you can call me Prof. Peter, Professor, or Dr. Peter)\nEmail: p.schindler (at) northeastern.edu\nOffice Location: 275 SN\nOffice Hours: Thursdays, 4:30 pm.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#prerequisites",
+    "href": "content/info.html#prerequisites",
+    "title": "Course Information",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThere are no formal prerequisites for this course. However, an undergraduate level understanding of materials science and basic coding skills in Python can be beneficial. Python will be introduced during the first two weeks through an intensive crash course. In addition, core atomistic and materials science concepts will be (re)introduced by week 4. No prior experience in machine learning (ML) is required.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#course-format",
+    "href": "content/info.html#course-format",
+    "title": "Course Information",
+    "section": "Course Format",
+    "text": "Course Format\nThe course will begin with lectures and interactive Python demonstrations during the first two-thirds of the semester, followed by student-led presentations of recent papers, guest lectures by experts, and final project presentations in the final third of the semester. Code, slides, and homework assignments will be shared on GitHub. One group project, one individual project, and a recent paper presentation will ensure that students learn state-of-the-art materials informatics skills and can conduct research independently in this new domain. The results obtained in the group project are targeted to be published in a peer-reviewed journal.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#who-is-this-for",
+    "href": "content/info.html#who-is-this-for",
+    "title": "Course Information",
+    "section": "Who is this for?",
+    "text": "Who is this for?\nThis course may be of interest to students of various backgrounds, for example, for students with a background in\n\nengineering/materials/chemistry/physics who have little coding experience but want to learn about how they can use ML in materials science & chemistry.\ncomputer science (i.e., experienced with coding) but little to no background in materials who want to learn about how machine ML can be applied in materials science & chemistry.\nexperimental research in the lab with little coding experience, who want to learn how they can use Python to complement their experimental work.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#resources",
+    "href": "content/info.html#resources",
+    "title": "Course Information",
+    "section": "Resources",
+    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.) and free online resources:\n\nMachine Learning in Materials Science, Keith T. Butler, Felipe Oviedo and Pieremanuele Canepa, ACS (2022). Link (free with NEU login)\nMachine Learning Refined, Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos, 2nd Edition (2024). Link (free)\nUnderstanding Deep Learning, Simon J.D. Prince, The MIT Press (2023). Link (free)\nDeep Learning for Molecules and Materials, Andrew D. White, Living Journal of Computational Molecular Science (2021). Link (free)\n\nFurther detailed resources and readings on Python and ML will be shared alongside the course material.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/info.html#learning-outcomes",
+    "href": "content/info.html#learning-outcomes",
+    "title": "Course Information",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nExplain the fundamentals of ML and its relevance to materials science.\nAnalyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.\nUse Pymatgen to analyze and manipulate crystal structures.\nAccess and use APIs like the Materials Project for data retrieval.\nIdentify and categorize common data types in materials science from both experimental and computational sources.\nPerform featurization of materials data for use in ML models.\nInterpret the output of ML models in the context of materials discovery and design.\nTrain ML models with packages like scikit-learn and PyTorch.\nDesign and implement research projects applying ML to real-world materials problems.\nExplore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.\nBuild foundational Python programming skills, including object-oriented programming.\nUse GitHub and VSCode for version control, collaboration, and project development.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "content/grade_conversion_table.html",
+    "href": "content/grade_conversion_table.html",
+    "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
+    "section": "",
+    "text": "Final Percentage Score\nLetter Grade\n4.0 Scale\n\n\n\n\n93–100\nA\n4.0\n\n\n90–92\nA-\n3.7\n\n\n87–89\nB+\n3.3\n\n\n83–86\nB\n3.0\n\n\n80–82\nB-\n2.7\n\n\n77–79\nC+\n2.3\n\n\n73–76\nC\n2.0\n\n\n70–72\nC-\n1.7\n\n\n&lt;70\nF\n0.0"
   },
   {
     "objectID": "content/final_project.html#topics",
@@ -45,6 +142,13 @@
     "crumbs": [
       "Projects"
     ]
+  },
+  {
+    "objectID": "index.html#course-summary",
+    "href": "index.html#course-summary",
+    "title": "ME 5374-ST – Machine Learning for Materials Science and Discovery",
+    "section": "Course Summary",
+    "text": "Course Summary\nMachine Learning for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous."
   },
   {
     "objectID": "content/other.html#attendance",
@@ -117,101 +221,25 @@
     ]
   },
   {
-    "objectID": "content/grading.html#final-grade-breakdown",
-    "href": "content/grading.html#final-grade-breakdown",
-    "title": "Grading",
-    "section": "Final Grade Breakdown",
-    "text": "Final Grade Breakdown\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5\nIn-class participation\n\n\n10\nHomework Assignments\n\n\n30\nPaper presentation\n\n\n25\nGroup project\n\n\n30\nFinal project (individual)\n\n\n\n\n\n\n\n\n\nLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.",
-    "crumbs": [
-      "Grading"
-    ]
+    "objectID": "content/learning_objectives_list.html",
+    "href": "content/learning_objectives_list.html",
+    "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
+    "section": "",
+    "text": "Explain the fundamentals of ML and its relevance to materials science.\nAnalyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.\nUse Pymatgen to analyze and manipulate crystal structures.\nAccess and use APIs like the Materials Project for data retrieval.\nIdentify and categorize common data types in materials science from both experimental and computational sources.\nPerform featurization of materials data for use in ML models.\nInterpret the output of ML models in the context of materials discovery and design.\nTrain ML models with packages like scikit-learn and PyTorch.\nDesign and implement research projects applying ML to real-world materials problems.\nExplore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.\nBuild foundational Python programming skills, including object-oriented programming.\nUse GitHub and VSCode for version control, collaboration, and project development."
   },
   {
-    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "title": "Grading",
-    "section": "Final Percentage Score to Letter Grade Conversion",
-    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\nFinal percentage Score\nLetter grade\n4.0 Scale\n\n\n\n\n93-100\nA\n4.0\n\n\n90-92\nA-\n3.7\n\n\n87-89\nB+\n3.3\n\n\n83-86\nB\n3.0\n\n\n80-82\nB-\n2.7\n\n\n77-79\nC+\n2.3\n\n\n73-76\nC\n2.0\n\n\n70-72\nC-\n1.7\n\n\n&lt;70\nF\n0.0",
-    "crumbs": [
-      "Grading"
-    ]
-  },
-  {
-    "objectID": "content/info.html#basic-information",
-    "href": "content/info.html#basic-information",
-    "title": "Course Information",
-    "section": "Basic information",
-    "text": "Basic information\nTerm: Fall 2025\nDate/Time: Tuesdays, 11:45-1:25 and Thursdays 2:50-4:30\nLocation: Ryder Hall 153\nCredits: 4 semester-hours",
-    "crumbs": [
-      "Information"
-    ]
-  },
-  {
-    "objectID": "content/info.html#instructor-contact",
-    "href": "content/info.html#instructor-contact",
-    "title": "Course Information",
-    "section": "Instructor Contact",
-    "text": "Instructor Contact\n\n\nName: Asst. Prof. Peter Schindler (you can call me Prof. Peter, Professor, or Dr. Peter)\nEmail: p.schindler (at) northeastern.edu\nOffice Location: 275 SN\nOffice Hours: Thursdays, 4:30 pm.",
-    "crumbs": [
-      "Information"
-    ]
-  },
-  {
-    "objectID": "content/info.html#prerequisites",
-    "href": "content/info.html#prerequisites",
-    "title": "Course Information",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nThere are no formal prerequisites for this course. However, an undergraduate level understanding of materials science and basic coding skills in Python can be beneficial. Python will be introduced during the first two weeks through an intensive crash course. In addition, core atomistic and materials science concepts will be (re)introduced by week 4. No prior experience in machine learning (ML) is required.",
-    "crumbs": [
-      "Information"
-    ]
-  },
-  {
-    "objectID": "content/info.html#course-format",
-    "href": "content/info.html#course-format",
-    "title": "Course Information",
-    "section": "Course Format",
-    "text": "Course Format\nThe course will begin with lectures and interactive Python demonstrations during the first two-thirds of the semester, followed by student-led presentations of recent papers, guest lectures by experts, and final project presentations in the final third of the semester. Code, slides, and homework assignments will be shared on GitHub. One group project, one individual project, and a recent paper presentation will ensure that students learn state-of-the-art materials informatics skills and can conduct research independently in this new domain. The results obtained in the group project are targeted to be published in a peer-reviewed journal.",
-    "crumbs": [
-      "Information"
-    ]
-  },
-  {
-    "objectID": "content/info.html#who-is-this-for",
-    "href": "content/info.html#who-is-this-for",
-    "title": "Course Information",
-    "section": "Who is this for?",
-    "text": "Who is this for?\nThis course may be of interest to students of various backgrounds, for example, for students with a background in\n\nengineering/materials/chemistry/physics who have little coding experience but want to learn about how they can use ML in materials science & chemistry.\ncomputer science (i.e., experienced with coding) but little to no background in materials who want to learn about how machine ML can be applied in materials science & chemistry.\nexperimental research in the lab with little coding experience, who want to learn how they can use Python to complement their experimental work.",
-    "crumbs": [
-      "Information"
-    ]
-  },
-  {
-    "objectID": "content/info.html#resources",
-    "href": "content/info.html#resources",
-    "title": "Course Information",
-    "section": "Resources",
-    "text": "Resources\nMaterials Informatics is a new and rapidly evolving field and hence, conventional textbooks are often not an ideal place to start. This course will not follow a specific textbook but will rely on prior efforts of various aspects of this field (ML, Python, data science, materials science, etc.) and free online resources:\n\nMachine Learning in Materials Science, Keith T. Butler, Felipe Oviedo and Pieremanuele Canepa, ACS (2022). Link (free with NEU login)\nMachine Learning Refined, Jeremy Watt, Reza Borhani, and Aggelos K. Katsaggelos, 2nd Edition (2024). Link (free)\nUnderstanding Deep Learning, Simon J.D. Prince, The MIT Press (2023). Link (free)\nDeep Learning for Molecules and Materials, Andrew D. White, Living Journal of Computational Molecular Science (2021). Link (free)\n\nFurther detailed resources and readings on Python and ML will be shared alongside the course material.",
-    "crumbs": [
-      "Information"
-    ]
-  },
-  {
-    "objectID": "content/info.html#learning-outcomes",
-    "href": "content/info.html#learning-outcomes",
-    "title": "Course Information",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nExplain the fundamentals of ML and its relevance to materials science.\nAnalyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.\nUse Pymatgen to analyze and manipulate crystal structures.\nAccess and use APIs like the Materials Project for materials data retrieval.\nIdentify and categorize common data types in materials science from both experimental and computational sources.\nPerform featurization of materials data for use in ML models.\nTrain models with packages like scikit-learn and PyTorch.\nInterpret the output of ML models in the context of materials discovery and design.\nDesign and implement research projects applying ML to real-world materials problems.\nExplore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.\nBuild foundational Python programming skills, including object-oriented programming.\nUse GitHub and VSCode for version control, collaboration, and project development.",
-    "crumbs": [
-      "Information"
-    ]
+    "objectID": "content/syllabus_table.html",
+    "href": "content/syllabus_table.html",
+    "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
+    "section": "",
+    "text": "Week\nDate\nTopic\nHomework Due\n\n\n\n\n1\nThu, 09/04\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n\n2\nTue, 09/09\nPython Crash Course 1\n\n\n\n2\nThu, 09/11\nPython Crash Course 2\n\n\n\n3\nTue, 09/16\nData Science Basics with Numpy, Pandas, and Matplotlib\n\n\n\n3\nThu, 09/18\nMachine Learning Basics 1\n\n\n\n4\nTue, 09/23\nMachine Learning Basics 2\nHW1\n\n\n4\nThu, 09/25\nCrystallography Crash Course and Pymatgen\n\n\n\n5\nTue, 09/30\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n\n5\nThu, 10/02\nData-Types and Databases in Materials Science\n\n\n\n6\nTue, 10/07\nFeaturization of Materials\nHW2\n\n\n6\nThu, 10/09\nDemonstration of Full ML Pipeline with a Materials Science Database\n\n\n\n7\nTue, 10/14\nProject Discussions\nHW3\n\n\n7\nThu, 10/16\nComputational Materials Properties 1\n\n\n\n8\nTue, 10/21\nComputational Materials Properties 2\nHW4\n\n\n8\nThu, 10/23\nDeep Learning\n\n\n\n9\nTue, 10/28\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n\n9\nThu, 10/30\nLarge-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)\n\n\n\n10\nTue, 11/04\nStudent Paper Presentations\n\n\n\n10\nThu, 11/06\nStudent Paper Presentations\n\n\n\n11\nTue, 11/11\nVeteran’s Day (no class)\n\n\n\n11\nThu, 11/13\nProf. Peter Traveling (no class)\n\n\n\n12\nTue, 11/18\nLeveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)\n\n\n\n12\nThu, 11/20\nLLMs for Text Classification (Dr. Emad Rezaei)\n\n\n\n13\nTue, 11/25\nML for High Entropy Alloys (Prof. James Chapman)\nHW5\n\n\n13\nThu, 11/27\nThanksgiving recess (no class)\n\n\n\n14\nTue, 12/02\nFinal project presentations (in-class)\n\n\n\n14\nThu, 12/04\nFinal project presentations (in-class)\n\n\n\n15\nTue, 12/09\nFinal project presentations (in-class)"
   },
   {
     "objectID": "content/syllabus.html",
     "href": "content/syllabus.html",
-    "title": "Outline (Tentative)",
+    "title": "Outline (Fall 2025)",
     "section": "",
-    "text": "Week\nDay\nTopic\n\n\n\n\n1\n1\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n2\n1\nPython Crash Course\n\n\n2\n2\nData in Python: Numpy, Pandas, and Matplotlib\n\n\n3\n1\nMachine Learning Basics 1\n\n\n3\n2\nMachine Learning Basics 2\n\n\n4\n1\nTypes of Data in Materials Science\n\n\n4\n2\nCrystallography Crash Course and Pymatgen\n\n\n5\n1\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n5\n2\nWorking with APIs (Materials Project)\n\n\n6\n1\nProject Discussions\n\n\n6\n2\nComputational Materials Properties 1\n\n\n7\n1\nComputational Materials Properties 2\n\n\n7\n2\nFeaturization of Materials 1\n\n\n8\n1\nFeaturization of Materials 2\n\n\n8\n2\nDeep Learning 1\n\n\n9\n1\nDeep Learning 2\n\n\n9\n2\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n10\n1\nLarge-Language Models (LLMs) and Generative AI in Materials Science\n\n\n10\n2\nStudent Paper Presentations\n\n\n11\n1\nVeteran’s Day (no class)\n\n\n11\n2\nStudent Paper Presentations\n\n\n12\n1\nGuest Speaker\n\n\n12\n2\nGuest Speaker\n\n\n13\n1\nGuest Speaker\n\n\n13\n2\nThanksgiving recess (no class)\n\n\n14\n1\nGuest Speaker\n\n\n14\n2\nFinal project presentations (in-class)\n\n\n15\n1\nFinal project presentations (in-class)",
+    "text": "Week\nDate\nTopic\nHomework Due\n\n\n\n\n1\nThu, 09/04\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n\n2\nTue, 09/09\nPython Crash Course 1\n\n\n\n2\nThu, 09/11\nPython Crash Course 2\n\n\n\n3\nTue, 09/16\nData Science Basics with Numpy, Pandas, and Matplotlib\n\n\n\n3\nThu, 09/18\nMachine Learning Basics 1\n\n\n\n4\nTue, 09/23\nMachine Learning Basics 2\nHW1\n\n\n4\nThu, 09/25\nCrystallography Crash Course and Pymatgen\n\n\n\n5\nTue, 09/30\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n\n5\nThu, 10/02\nData-Types and Databases in Materials Science\n\n\n\n6\nTue, 10/07\nFeaturization of Materials\nHW2\n\n\n6\nThu, 10/09\nDemonstration of Full ML Pipeline with a Materials Science Database\n\n\n\n7\nTue, 10/14\nProject Discussions\nHW3\n\n\n7\nThu, 10/16\nComputational Materials Properties 1\n\n\n\n8\nTue, 10/21\nComputational Materials Properties 2\nHW4\n\n\n8\nThu, 10/23\nDeep Learning\n\n\n\n9\nTue, 10/28\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n\n9\nThu, 10/30\nLarge-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)\n\n\n\n10\nTue, 11/04\nStudent Paper Presentations\n\n\n\n10\nThu, 11/06\nStudent Paper Presentations\n\n\n\n11\nTue, 11/11\nVeteran’s Day (no class)\n\n\n\n11\nThu, 11/13\nProf. Peter Traveling (no class)\n\n\n\n12\nTue, 11/18\nLeveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)\n\n\n\n12\nThu, 11/20\nLLMs for Text Classification (Dr. Emad Rezaei)\n\n\n\n13\nTue, 11/25\nML for High Entropy Alloys (Prof. James Chapman)\nHW5\n\n\n13\nThu, 11/27\nThanksgiving recess (no class)\n\n\n\n14\nTue, 12/02\nFinal project presentations (in-class)\n\n\n\n14\nThu, 12/04\nFinal project presentations (in-class)\n\n\n\n15\nTue, 12/09\nFinal project presentations (in-class)",
     "crumbs": [
       "Outline"
     ]
