@@ -1,30 +1,10 @@
 [
   {
-    "objectID": "content/grading.html#final-grade-breakdown",
-    "href": "content/grading.html#final-grade-breakdown",
-    "title": "Grading",
-    "section": "Final Grade Breakdown",
-    "text": "Final Grade Breakdown\n\n\n\n\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5%\nIn-class participation\n\n\n10%\nHomework Assignments\n\n\n30%\nPaper presentation\n\n\n25%\nGroup project\n\n\n30%\nFinal project (individual)\n\n\n\n\n\n\n\n\n\nImportantLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.",
-    "crumbs": [
-      "Grading"
-    ]
-  },
-  {
-    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
-    "title": "Grading",
-    "section": "Final Percentage Score to Letter Grade Conversion",
-    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\n\n\n\n\n\nFinal Percentage Score\nLetter Grade\n4.0 Scale\n\n\n\n\n93–100\nA\n4.0\n\n\n90–92\nA-\n3.7\n\n\n87–89\nB+\n3.3\n\n\n83–86\nB\n3.0\n\n\n80–82\nB-\n2.7\n\n\n77–79\nC+\n2.3\n\n\n73–76\nC\n2.0\n\n\n70–72\nC-\n1.7\n\n\n&lt;70\nF\n0.0",
-    "crumbs": [
-      "Grading"
-    ]
-  },
-  {
-    "objectID": "content/grading_table.html",
-    "href": "content/grading_table.html",
+    "objectID": "content/learning_objectives_list.html",
+    "href": "content/learning_objectives_list.html",
     "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
     "section": "",
-    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5%\nIn-class participation\n\n\n10%\nHomework Assignments\n\n\n30%\nPaper presentation\n\n\n25%\nGroup project\n\n\n30%\nFinal project (individual)"
+    "text": "Explain the fundamentals of ML and its relevance to materials science.\nAnalyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.\nUse Pymatgen to analyze and manipulate crystal structures.\nAccess and use APIs like the Materials Project for data retrieval.\nIdentify and categorize common data types in materials science from both experimental and computational sources.\nPerform featurization of materials data for use in ML models.\nInterpret the output of ML models in the context of materials discovery and design.\nTrain ML models with packages like scikit-learn and PyTorch.\nDesign and implement research projects applying ML to real-world materials problems.\nExplore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.\nBuild foundational Python programming skills, including object-oriented programming.\nUse GitHub and VSCode for version control, collaboration, and project development."
   },
   {
     "objectID": "content/info.html#basic-information",
@@ -97,6 +77,36 @@
     ]
   },
   {
+    "objectID": "content/grading.html#final-grade-breakdown",
+    "href": "content/grading.html#final-grade-breakdown",
+    "title": "Grading",
+    "section": "Final Grade Breakdown",
+    "text": "Final Grade Breakdown\n\n\n\n\n\n\n\nPercentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5%\nIn-class participation\n\n\n10%\nHomework Assignments\n\n\n30%\nPaper presentation\n\n\n25%\nGroup project\n\n\n30%\nFinal project (individual)\n\n\n\n\n\n\n\n\n\nImportantLate Homework Policy\n\n\n\nAll assignments will be accepted up to 2 calendar days late (cutoff 11:59 pm).\n\nAssignments turned in one day late will be penalized by 10%.\nAssignments turned in two days late will be penalized by 20%.\nAfter two calendar days, assignments will not be accepted, and you will receive a 0 on the assignment.",
+    "crumbs": [
+      "Grading"
+    ]
+  },
+  {
+    "objectID": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "href": "content/grading.html#final-percentage-score-to-letter-grade-conversion",
+    "title": "Grading",
+    "section": "Final Percentage Score to Letter Grade Conversion",
+    "text": "Final Percentage Score to Letter Grade Conversion\n\n\n\n\n\n\n\n\nFinal Percentage Score\nLetter Grade\n4.0 Scale\n\n\n\n\n93–100\nA\n4.0\n\n\n90–92\nA-\n3.7\n\n\n87–89\nB+\n3.3\n\n\n83–86\nB\n3.0\n\n\n80–82\nB-\n2.7\n\n\n77–79\nC+\n2.3\n\n\n73–76\nC\n2.0\n\n\n70–72\nC-\n1.7\n\n\n&lt;70\nF\n0.0",
+    "crumbs": [
+      "Grading"
+    ]
+  },
+  {
+    "objectID": "content/syllabus.html",
+    "href": "content/syllabus.html",
+    "title": "Outline (Fall 2025)",
+    "section": "",
+    "text": "Week\nDate\nTopic\nHomework Due\n\n\n\n\n1\nThu, 09/04\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n\n2\nTue, 09/09\nPython Crash Course 1\n\n\n\n2\nThu, 09/11\nPython Crash Course 2\n\n\n\n3\nTue, 09/16\nData Science Basics with Numpy, Pandas, and Matplotlib\n\n\n\n3\nThu, 09/18\nMachine Learning Basics 1\n\n\n\n4\nTue, 09/23\nMachine Learning Basics 2\nHW1\n\n\n4\nThu, 09/25\nCrystallography Crash Course and Pymatgen\n\n\n\n5\nTue, 09/30\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n\n5\nThu, 10/02\nData-Types and Databases in Materials Science\n\n\n\n6\nTue, 10/07\nFeaturization of Materials\nHW2\n\n\n6\nThu, 10/09\nDemonstration of Full ML Pipeline with a Materials Science Database\n\n\n\n7\nTue, 10/14\nProject Discussions\nHW3\n\n\n7\nThu, 10/16\nComputational Materials Properties 1\n\n\n\n8\nTue, 10/21\nComputational Materials Properties 2\nHW4\n\n\n8\nThu, 10/23\nDeep Learning\n\n\n\n9\nTue, 10/28\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n\n9\nThu, 10/30\nLarge-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)\n\n\n\n10\nTue, 11/04\nStudent Paper Presentations\n\n\n\n10\nThu, 11/06\nStudent Paper Presentations\n\n\n\n11\nTue, 11/11\nVeteran’s Day (no class)\n\n\n\n11\nThu, 11/13\nProf. Peter Traveling (no class)\n\n\n\n12\nTue, 11/18\nLeveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)\n\n\n\n12\nThu, 11/20\nLLMs for Text Classification (Dr. Emad Rezaei)\n\n\n\n13\nTue, 11/25\nML for High Entropy Alloys (Prof. James Chapman)\nHW5\n\n\n13\nThu, 11/27\nThanksgiving recess (no class)\n\n\n\n14\nTue, 12/02\nFinal project presentations (in-class)\n\n\n\n14\nThu, 12/04\nFinal project presentations (in-class)\n\n\n\n15\nTue, 12/09\nFinal project presentations (in-class)",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
     "objectID": "content/grade_conversion_table.html",
     "href": "content/grade_conversion_table.html",
     "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
@@ -104,51 +114,25 @@
     "text": "Final Percentage Score\nLetter Grade\n4.0 Scale\n\n\n\n\n93–100\nA\n4.0\n\n\n90–92\nA-\n3.7\n\n\n87–89\nB+\n3.3\n\n\n83–86\nB\n3.0\n\n\n80–82\nB-\n2.7\n\n\n77–79\nC+\n2.3\n\n\n73–76\nC\n2.0\n\n\n70–72\nC-\n1.7\n\n\n&lt;70\nF\n0.0"
   },
   {
-    "objectID": "content/final_project.html#topics",
-    "href": "content/final_project.html#topics",
-    "title": "Projects",
-    "section": "Topics",
-    "text": "Topics\nThe topic selection takes place on a Google Sheet (link will be provided later) in which you can select from a list of topics or come up with your own topic.\nIdeally, there will be 1 topic per student.",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "content/final_project.html#deliverables",
-    "href": "content/final_project.html#deliverables",
-    "title": "Projects",
-    "section": "Deliverables",
-    "text": "Deliverables\nDetails will be added here soon.",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "content/final_project.html#timeline",
-    "href": "content/final_project.html#timeline",
-    "title": "Projects",
-    "section": "Timeline",
-    "text": "Timeline\nDetails will be added soon.",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "content/final_project.html#evaluation",
-    "href": "content/final_project.html#evaluation",
-    "title": "Projects",
-    "section": "Evaluation",
-    "text": "Evaluation\nDetails will be added soon.",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
     "objectID": "index.html#course-summary",
     "href": "index.html#course-summary",
     "title": "ME 5374-ST – Machine Learning for Materials Science and Discovery",
     "section": "Course Summary",
-    "text": "Course Summary\nMachine Learning for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous."
+    "text": "Course Summary\nMachine Learning for Materials Science and Discovery is a 4 semester-hour special topics graduate course. It covers the basics of machine learning and data science as it applies to materials science problems. Large materials databases, like the Materials Project, are utilized interactively. Common data types originating from computational and experimental methods are surveyed. The materials informatics paradigm is introduced with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large language models, are discussed in student-led projects. This course has no formal prerequisites, but prior basic understanding of materials science and Python are advantageous.\n\n\n\n\n\n\nNote\n\n\n\nThis course was taught in Fall 2025. There are currently no plans for future iterations."
+  },
+  {
+    "objectID": "index.html#content",
+    "href": "index.html#content",
+    "title": "ME 5374-ST – Machine Learning for Materials Science and Discovery",
+    "section": "Content",
+    "text": "Content\nThe course content will be shared via Github (link) for which student will gain access at the beginning of the semester.\nCanvas will only be used for grading purposes and assignment submissions.\nBelow is a sneak peek of the fun-packed weeks with many interactive in-class tutorials. See also the course outline page for the topics we cover each week.\n./ML4MSD-Files/*\n    ├─ .vscode/*\n    |       ├─ extensions.json\n    |       └─ settings.json\n    ├─ Homework/*\n    |       ├─ Homework1/*\n    |       |       ├─ results/*\n    |       |       ├─ dft_log_example.jpg\n    |       |       └─ hw1.md\n    |       ├─ Homework2/*\n    |       |       └─ hw2.md\n    |       ├─ Homework3/*\n    |       |       ├─ hw3.md\n    |       |       ├─ MP_Swagger_UI.jpg\n    |       |       └─ perovskite_structure.jpg\n    |       ├─ Homework4/*\n    |       |       └─ hw4.md\n    |       └─ Homework5/*\n    |               └─ hw5.md\n    ├─ Projects/*\n    |       ├─ final_project_rubric.md\n    |       ├─ paper_template_option1.docx\n    |       └─ paper_template_option2.docx\n    ├─ Resources/*\n    |       ├─ Papers/*\n    |       |       ├─ Musil_Chemical_Reviews_2021_Review-of-Descriptors.pdf\n    |       |       ├─ Scheffler_Nature_22_FAIR Data and MSE.pdf\n    |       |       └─ Wang_Chem_Mat_20_Best Practices ML.pdf\n    |       ├─ materials_databases.md\n    |       ├─ Python_resources.md\n    |       ├─ tables.md\n    |       └─ VSCode_cheatsheet.md\n    ├─ Solutions/*\n    |       ├─ 02_Python_Crash_Course_1.ipynb\n    |       ├─ 03_Python_Crash_Course_2.ipynb\n    |       ├─ 04_data_science_basics.ipynb\n    |       ├─ 05_ML_basics_1.ipynb\n    |       ├─ 06_ML_basics_2.ipynb\n    |       ├─ 07_pymatgen_tutorial.ipynb\n    |       ├─ 08_OOP_Tutorial.ipynb\n    |       └─ band_gap_data.json\n    ├─ utils/*\n    |       └─ plot_functions.py\n    ├─ Week1/*\n    |       └─ 01_Introduction.pdf\n    ├─ Week2/*\n    |       ├─ images/*\n    |       |       ├─ gh_new_repo.jpg\n    |       |       ├─ gh_new_repo_access.jpg\n    |       |       ├─ gh_new_repo_details.jpg\n    |       |       ├─ gh_signin.jpg\n    |       |       ├─ gh_vscode_fetch.jpg\n    |       |       ├─ gh_vscode_icons.jpg\n    |       |       ├─ gh_vscode_icons_final.jpg\n    |       |       ├─ GitHub.jpg\n    |       |       ├─ GitHub_fetch.jpg\n    |       |       ├─ list_indexing.jpg\n    |       |       ├─ VSCode_extensions.jpg\n    |       |       ├─ VSCode_extension_request.jpg\n    |       |       ├─ VSCode_final.jpg\n    |       |       ├─ VSCode_final_annotated.jpg\n    |       |       ├─ VSCode_jupyter_kernel.jpg\n    |       |       └─ VSCode_original.jpg\n    |       ├─ 02_installation_instructions.md\n    |       ├─ 02_Python_Crash_Course_1.ipynb\n    |       ├─ 02_Python_Crash_Course_1.pdf\n    |       ├─ 02_setup_github_VSCode.md\n    |       └─ 03_Python_Crash_Course_2.ipynb\n    ├─ Week3/*\n    |       ├─ 04_data_science_basics.ipynb\n    |       ├─ 05_Machine_Learning_Basics_1.pdf\n    |       ├─ 05_ML_basics_1.ipynb\n    |       ├─ 05_Notes_Multilinear_Regression.pdf\n    |       └─ band_gap_data.json\n    ├─ Week4/*\n    |       ├─ 06_Machine_Learning_Basics_2.pdf\n    |       ├─ 06_ML_basics_2.ipynb\n    |       ├─ 07_Crystallography_Crash_Course_and_Pymatgen.pdf\n    |       └─ 07_pymatgen_tutorial.ipynb\n    ├─ Week5/*\n    |       ├─ 08_import_test.py\n    |       ├─ 08_OOP_Tutorial.ipynb\n    |       ├─ 08_slattice.py\n    |       ├─ 09_Data_Types_and_Databases_in_MatSci.pdf\n    |       ├─ 09_Materials_Project_Tutorial.ipynb\n    |       └─ mp_data.csv\n    ├─ Week6/*\n    |       ├─ 10_Featurization_in_MatSci.ipynb\n    |       ├─ 10_Featurization_of_Materials.pdf\n    |       ├─ 10_references.md\n    |       ├─ 11_Demonstration_of_MatSci-ML_Pipeline.pdf\n    |       └─ 11_Full_MatSci-ML_Pipeline.ipynb\n    ├─ Week7/*\n    |       ├─ 12_OOD_with_Matfold.ipynb\n    |       ├─ 12_Project_Discussions.pdf\n    |       ├─ 12_Sign-up_Sheets.md\n    |       ├─ 13_Atomistic_Modeling_1-Molecular_Dynamics.pdf\n    |       └─ 13_MD_with_ASE.ipynb\n    ├─ Week8/*\n    |       ├─ 14_Atomistic_Modeling_2-Density_Functional_Theory.pdf\n    |       ├─ 14_DFT_GPAW_ASE_Demo_Link.md\n    |       ├─ 15_Deep_Learning.pdf\n    |       └─ 15_Interactive_Demo_Links.md\n    ├─ Week9/*\n    |       ├─ 16_Links_to_Colab_Notebooks.md\n    |       ├─ 16_LLMs_in_MatSci.pdf\n    |       ├─ 17_Instructions.md\n    |       ├─ 17_MLIPs.ipynb\n    |       ├─ 17_MLIPs.pdf\n    |       ├─ pyproject.toml\n    |       └─ uv.lock\n    ├─ Week12/*\n    |       ├─ 18_Leveraging_Symmetry_for_Learning_in_Physical_Systems.pdf\n    |       └─ 19_LLM_Classification.pdf\n    ├─ Week13/*\n    |       ├─ 20_ML_for_SRO_in_HEAs_Interactive.md\n    |       └─ 20_ML_for_SRO_in_HEAs_Slides.pdf\n    ├─ .gitignore\n    ├─ .python-version\n    ├─ logo.svg\n    ├─ pyproject.toml\n    ├─ README.md\n    ├─ Syllabus-ST-ML_for_Materials-Fall2025.pdf\n    └─ uv.lock"
+  },
+  {
+    "objectID": "content/syllabus_table.html",
+    "href": "content/syllabus_table.html",
+    "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
+    "section": "",
+    "text": "Week\nDate\nTopic\nHomework Due\n\n\n\n\n1\nThu, 09/04\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n\n2\nTue, 09/09\nPython Crash Course 1\n\n\n\n2\nThu, 09/11\nPython Crash Course 2\n\n\n\n3\nTue, 09/16\nData Science Basics with Numpy, Pandas, and Matplotlib\n\n\n\n3\nThu, 09/18\nMachine Learning Basics 1\n\n\n\n4\nTue, 09/23\nMachine Learning Basics 2\nHW1\n\n\n4\nThu, 09/25\nCrystallography Crash Course and Pymatgen\n\n\n\n5\nTue, 09/30\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n\n5\nThu, 10/02\nData-Types and Databases in Materials Science\n\n\n\n6\nTue, 10/07\nFeaturization of Materials\nHW2\n\n\n6\nThu, 10/09\nDemonstration of Full ML Pipeline with a Materials Science Database\n\n\n\n7\nTue, 10/14\nProject Discussions\nHW3\n\n\n7\nThu, 10/16\nComputational Materials Properties 1\n\n\n\n8\nTue, 10/21\nComputational Materials Properties 2\nHW4\n\n\n8\nThu, 10/23\nDeep Learning\n\n\n\n9\nTue, 10/28\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n\n9\nThu, 10/30\nLarge-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)\n\n\n\n10\nTue, 11/04\nStudent Paper Presentations\n\n\n\n10\nThu, 11/06\nStudent Paper Presentations\n\n\n\n11\nTue, 11/11\nVeteran’s Day (no class)\n\n\n\n11\nThu, 11/13\nProf. Peter Traveling (no class)\n\n\n\n12\nTue, 11/18\nLeveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)\n\n\n\n12\nThu, 11/20\nLLMs for Text Classification (Dr. Emad Rezaei)\n\n\n\n13\nTue, 11/25\nML for High Entropy Alloys (Prof. James Chapman)\nHW5\n\n\n13\nThu, 11/27\nThanksgiving recess (no class)\n\n\n\n14\nTue, 12/02\nFinal project presentations (in-class)\n\n\n\n14\nThu, 12/04\nFinal project presentations (in-class)\n\n\n\n15\nTue, 12/09\nFinal project presentations (in-class)"
   },
   {
     "objectID": "content/other.html#attendance",
@@ -221,27 +205,40 @@
     ]
   },
   {
-    "objectID": "content/learning_objectives_list.html",
-    "href": "content/learning_objectives_list.html",
+    "objectID": "content/grading_table.html",
+    "href": "content/grading_table.html",
     "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
     "section": "",
-    "text": "Explain the fundamentals of ML and its relevance to materials science.\nAnalyze and manipulate materials datasets using Python tools such as Numpy, Pandas, and Matplotlib.\nUse Pymatgen to analyze and manipulate crystal structures.\nAccess and use APIs like the Materials Project for data retrieval.\nIdentify and categorize common data types in materials science from both experimental and computational sources.\nPerform featurization of materials data for use in ML models.\nInterpret the output of ML models in the context of materials discovery and design.\nTrain ML models with packages like scikit-learn and PyTorch.\nDesign and implement research projects applying ML to real-world materials problems.\nExplore the application of deep learning, machine learning interatomic potentials, and generative AI in materials science.\nBuild foundational Python programming skills, including object-oriented programming.\nUse GitHub and VSCode for version control, collaboration, and project development."
+    "text": "Percentage of Final Grade\nIndividual Grade Contribution\n\n\n\n\n5%\nIn-class participation\n\n\n10%\nHomework Assignments\n\n\n30%\nPaper presentation\n\n\n25%\nGroup project\n\n\n30%\nFinal project (individual)"
   },
   {
-    "objectID": "content/syllabus_table.html",
-    "href": "content/syllabus_table.html",
-    "title": "ML4MSD -- Machine Learning for Materials Science and Discovery",
-    "section": "",
-    "text": "Week\nDate\nTopic\nHomework Due\n\n\n\n\n1\nThu, 09/04\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n\n2\nTue, 09/09\nPython Crash Course 1\n\n\n\n2\nThu, 09/11\nPython Crash Course 2\n\n\n\n3\nTue, 09/16\nData Science Basics with Numpy, Pandas, and Matplotlib\n\n\n\n3\nThu, 09/18\nMachine Learning Basics 1\n\n\n\n4\nTue, 09/23\nMachine Learning Basics 2\nHW1\n\n\n4\nThu, 09/25\nCrystallography Crash Course and Pymatgen\n\n\n\n5\nTue, 09/30\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n\n5\nThu, 10/02\nData-Types and Databases in Materials Science\n\n\n\n6\nTue, 10/07\nFeaturization of Materials\nHW2\n\n\n6\nThu, 10/09\nDemonstration of Full ML Pipeline with a Materials Science Database\n\n\n\n7\nTue, 10/14\nProject Discussions\nHW3\n\n\n7\nThu, 10/16\nComputational Materials Properties 1\n\n\n\n8\nTue, 10/21\nComputational Materials Properties 2\nHW4\n\n\n8\nThu, 10/23\nDeep Learning\n\n\n\n9\nTue, 10/28\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n\n9\nThu, 10/30\nLarge-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)\n\n\n\n10\nTue, 11/04\nStudent Paper Presentations\n\n\n\n10\nThu, 11/06\nStudent Paper Presentations\n\n\n\n11\nTue, 11/11\nVeteran’s Day (no class)\n\n\n\n11\nThu, 11/13\nProf. Peter Traveling (no class)\n\n\n\n12\nTue, 11/18\nLeveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)\n\n\n\n12\nThu, 11/20\nLLMs for Text Classification (Dr. Emad Rezaei)\n\n\n\n13\nTue, 11/25\nML for High Entropy Alloys (Prof. James Chapman)\nHW5\n\n\n13\nThu, 11/27\nThanksgiving recess (no class)\n\n\n\n14\nTue, 12/02\nFinal project presentations (in-class)\n\n\n\n14\nThu, 12/04\nFinal project presentations (in-class)\n\n\n\n15\nTue, 12/09\nFinal project presentations (in-class)"
-  },
-  {
-    "objectID": "content/syllabus.html",
-    "href": "content/syllabus.html",
-    "title": "Outline (Fall 2025)",
-    "section": "",
-    "text": "Week\nDate\nTopic\nHomework Due\n\n\n\n\n1\nThu, 09/04\nIntroduction and Getting Started (GitHub and VSCode)\n\n\n\n2\nTue, 09/09\nPython Crash Course 1\n\n\n\n2\nThu, 09/11\nPython Crash Course 2\n\n\n\n3\nTue, 09/16\nData Science Basics with Numpy, Pandas, and Matplotlib\n\n\n\n3\nThu, 09/18\nMachine Learning Basics 1\n\n\n\n4\nTue, 09/23\nMachine Learning Basics 2\nHW1\n\n\n4\nThu, 09/25\nCrystallography Crash Course and Pymatgen\n\n\n\n5\nTue, 09/30\nObject-Oriented Programming Illustrated with Pymatgen\n\n\n\n5\nThu, 10/02\nData-Types and Databases in Materials Science\n\n\n\n6\nTue, 10/07\nFeaturization of Materials\nHW2\n\n\n6\nThu, 10/09\nDemonstration of Full ML Pipeline with a Materials Science Database\n\n\n\n7\nTue, 10/14\nProject Discussions\nHW3\n\n\n7\nThu, 10/16\nComputational Materials Properties 1\n\n\n\n8\nTue, 10/21\nComputational Materials Properties 2\nHW4\n\n\n8\nThu, 10/23\nDeep Learning\n\n\n\n9\nTue, 10/28\nMachine Learning Interatomic Potentials (MLIPs)\n\n\n\n9\nThu, 10/30\nLarge-Language Models (LLMs) in Materials Science (Dr. Emad Rezaei)\n\n\n\n10\nTue, 11/04\nStudent Paper Presentations\n\n\n\n10\nThu, 11/06\nStudent Paper Presentations\n\n\n\n11\nTue, 11/11\nVeteran’s Day (no class)\n\n\n\n11\nThu, 11/13\nProf. Peter Traveling (no class)\n\n\n\n12\nTue, 11/18\nLeveraging Symmetry for Learning in Physical Systems (Prof. Robin Walters)\n\n\n\n12\nThu, 11/20\nLLMs for Text Classification (Dr. Emad Rezaei)\n\n\n\n13\nTue, 11/25\nML for High Entropy Alloys (Prof. James Chapman)\nHW5\n\n\n13\nThu, 11/27\nThanksgiving recess (no class)\n\n\n\n14\nTue, 12/02\nFinal project presentations (in-class)\n\n\n\n14\nThu, 12/04\nFinal project presentations (in-class)\n\n\n\n15\nTue, 12/09\nFinal project presentations (in-class)",
+    "objectID": "content/final_project.html#student-paper-presentations",
+    "href": "content/final_project.html#student-paper-presentations",
+    "title": "Projects",
+    "section": "Student Paper Presentations",
+    "text": "Student Paper Presentations\n\nPick a recent publication (or a few related ones) in the Materials + AI domain.\nFocus on topics we have not covered in class or on interesting applications.\nSign up for a presentation slot (two available dates) on the Google Sheet (link will be provided). Sign-up is first come, first serve (you need to select a paper to sign up).\nProf. Peter will approve each paper in the Google Sheet.\nDuration: 15 minutes (12 min presentation + 3 min Q&A).",
     "crumbs": [
-      "Outline"
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#individual-final-project",
+    "href": "content/final_project.html#individual-final-project",
+    "title": "Projects",
+    "section": "Individual Final Project",
+    "text": "Individual Final Project\nChoose one of the two options below.\n\nOption 1 — Full ML Pipeline\n\nSelect a target materials class (e.g., 2D materials, perovskites, metal oxides) and a target materials property (can be experimental or computational).\nConduct a literature review of available datasets and prior ML efforts.\nCollect relevant datasets and perform data cleaning. Matminer and Materials Project data may not be used (all other sources are ok).\nCarry out the full ML pipeline with two featurizers.\n\n\n\nOption 2 — Atomistic Simulation with MLIPs\n\nIdentify an atomistic simulation problem/system.\nConduct a literature review on the appropriate modeling approach.\nSimulate the system using ML Interatomic Potentials (MLIPs).\nThis can either involve molecular dynamics workflows or DFT-like property predictions involving total energy predictions.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "content/final_project.html#deliverables",
+    "href": "content/final_project.html#deliverables",
+    "title": "Projects",
+    "section": "Deliverables",
+    "text": "Deliverables\nShort Project Summary: 2–3 pages summarizing the relevant literature and the high-level ML pipeline (data cleaning, featurization, ML algorithm, hyperparameters, performance metrics) or MLIP approach (model chosen, summary of model predictions).\nGitHub Repository:\n\nContains the entire code to recreate the ML pipeline, plots, and results.\nContains a summary JSON or CSV file with all main performance metrics.\nContains PNGs of all relevant plots.\n\nFinal Presentation: 25 minutes (20 min presentation + 5 min Q&A).",
+    "crumbs": [
+      "Projects"
     ]
   }
 ]

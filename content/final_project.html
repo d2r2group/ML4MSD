@@ -2,18 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-13">
+<meta name="dcterms.date" content="2026-08-04">
 
 <title>Projects – ML4MSD – Machine Learning for Materials Science and Discovery</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -35,17 +41,16 @@ ul.task-list li input[type="checkbox"] {
 <link href="../images/favicon.ico" rel="icon">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-772ff2bcbe09c72695251a9bf2ab753f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-232e4682cfd531faa731a02c7ded2837.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-65c49191640389d30b6b2df69c2b8ec7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-8aaea1cc776fd55558d06debd1d5c78a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -326,10 +331,13 @@ gtag('config', 'G-C2P3YYMPET', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#topics" id="toc-topics" class="nav-link active" data-scroll-target="#topics">Topics</a></li>
+  <li><a href="#student-paper-presentations" id="toc-student-paper-presentations" class="nav-link active" data-scroll-target="#student-paper-presentations">Student Paper Presentations</a></li>
+  <li><a href="#individual-final-project" id="toc-individual-final-project" class="nav-link" data-scroll-target="#individual-final-project">Individual Final Project</a>
+  <ul class="collapse">
+  <li><a href="#option-1-full-ml-pipeline" id="toc-option-1-full-ml-pipeline" class="nav-link" data-scroll-target="#option-1-full-ml-pipeline">Option 1 — Full ML Pipeline</a></li>
+  <li><a href="#option-2-atomistic-simulation-with-mlips" id="toc-option-2-atomistic-simulation-with-mlips" class="nav-link" data-scroll-target="#option-2-atomistic-simulation-with-mlips">Option 2 — Atomistic Simulation with MLIPs</a></li>
+  </ul></li>
   <li><a href="#deliverables" id="toc-deliverables" class="nav-link" data-scroll-target="#deliverables">Deliverables</a></li>
-  <li><a href="#timeline" id="toc-timeline" class="nav-link" data-scroll-target="#timeline">Timeline</a></li>
-  <li><a href="#evaluation" id="toc-evaluation" class="nav-link" data-scroll-target="#evaluation">Evaluation</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/d2r2group/ML4MSD/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -343,22 +351,48 @@ gtag('config', 'G-C2P3YYMPET', { 'anonymize_ip': true});
 </header>
 
 
-<section id="topics" class="level2">
-<h2 class="anchored" data-anchor-id="topics">Topics</h2>
-<p>The topic selection takes place on a Google Sheet (link will be provided later) in which you can select from a list of topics or come up with your own topic.<br>
-Ideally, there will be 1 topic per student.</p>
+<section id="student-paper-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="student-paper-presentations">Student Paper Presentations</h2>
+<ul>
+<li>Pick a <strong>recent publication</strong> (or a few related ones) in the <em>Materials + AI</em> domain.</li>
+<li>Focus on topics we have <strong>not</strong> covered in class or on interesting applications.</li>
+<li>Sign up for a presentation slot (two available dates) on the Google Sheet (link will be provided). Sign-up is first come, first serve (you need to select a paper to sign up).</li>
+<li>Prof.&nbsp;Peter will approve each paper in the Google Sheet.</li>
+<li>Duration: <strong>15 minutes</strong> (12 min presentation + 3 min Q&amp;A).</li>
+</ul>
+</section>
+<section id="individual-final-project" class="level2">
+<h2 class="anchored" data-anchor-id="individual-final-project">Individual Final Project</h2>
+<p>Choose <strong>one</strong> of the two options below.</p>
+<section id="option-1-full-ml-pipeline" class="level3">
+<h3 class="anchored" data-anchor-id="option-1-full-ml-pipeline">Option 1 — Full ML Pipeline</h3>
+<ul>
+<li>Select a <strong>target materials class</strong> (e.g., 2D materials, perovskites, metal oxides) and a <strong>target materials property</strong> (can be experimental or computational).</li>
+<li>Conduct a <strong>literature review</strong> of available datasets and prior ML efforts.</li>
+<li>Collect relevant datasets and perform data cleaning. Matminer and Materials Project data may <strong>not</strong> be used (all other sources are ok).</li>
+<li>Carry out the full ML pipeline with <strong>two featurizers</strong>.</li>
+</ul>
+</section>
+<section id="option-2-atomistic-simulation-with-mlips" class="level3">
+<h3 class="anchored" data-anchor-id="option-2-atomistic-simulation-with-mlips">Option 2 — Atomistic Simulation with MLIPs</h3>
+<ul>
+<li>Identify an <strong>atomistic simulation</strong> problem/system.</li>
+<li>Conduct a <strong>literature review</strong> on the appropriate modeling approach.</li>
+<li>Simulate the system using <strong>ML Interatomic Potentials (MLIPs)</strong>.</li>
+<li>This can either involve <em>molecular dynamics</em> workflows or DFT-like property predictions involving <em>total energy predictions</em>.</li>
+</ul>
+</section>
 </section>
 <section id="deliverables" class="level2">
 <h2 class="anchored" data-anchor-id="deliverables">Deliverables</h2>
-<p>Details will be added here soon.</p>
-</section>
-<section id="timeline" class="level2">
-<h2 class="anchored" data-anchor-id="timeline">Timeline</h2>
-<p>Details will be added soon.</p>
-</section>
-<section id="evaluation" class="level2">
-<h2 class="anchored" data-anchor-id="evaluation">Evaluation</h2>
-<p>Details will be added soon.</p>
+<p><strong>Short Project Summary:</strong> 2–3 pages summarizing the relevant literature and the high-level ML pipeline (data cleaning, featurization, ML algorithm, hyperparameters, performance metrics) or MLIP approach (model chosen, summary of model predictions).</p>
+<p><strong>GitHub Repository:</strong></p>
+<ul>
+<li>Contains the entire code to recreate the ML pipeline, plots, and results.</li>
+<li>Contains a summary JSON or CSV file with all main performance metrics.</li>
+<li>Contains PNGs of all relevant plots.</li>
+</ul>
+<p><strong>Final Presentation:</strong> 25 minutes (20 min presentation + 5 min Q&amp;A).</p>
 
 
 </section>
@@ -804,7 +838,7 @@ Ideally, there will be 1 topic per student.</p>
       &nbsp;
     <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/d2r2group/ML4MSD/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
-<p><em>Last Update:</em> January 13, 2026</p>
+<p><em>Last Update:</em> August 4, 2026</p>
 </div>
   </div>
 </footer>
