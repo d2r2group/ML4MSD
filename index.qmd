@@ -13,3 +13,142 @@ from computational and experimental methods are surveyed. The materials informat
 with a focus on solid state materials discovery. Recent topics in the field, like generative AI and large 
 language models, are discussed in student-led projects. This course has no formal prerequisites, but prior 
 basic understanding of materials science and Python are advantageous.
+
+::: {.callout-note}
+This course was taught in **Fall 2025**. There are currently no plans for future iterations.
+:::
+
+## Content
+
+The course content will be shared via *Github* ([link](https://github.com/d2r2group/ML4MSD-Files)) for which student will gain access at the beginning of the semester. 
+
+*Canvas* will only be used for grading purposes and assignment submissions.
+
+Below is a sneak peek of the fun-packed weeks with many interactive in-class tutorials. See also the [course outline](/content/syllabus.html) page for the topics we cover each week.
+
+```md
+./ML4MSD-Files/*
+	├─ .vscode/*
+	|   	├─ extensions.json
+	|   	└─ settings.json
+	├─ Homework/*
+	|   	├─ Homework1/*
+	|   	|   	├─ results/*
+	|   	|   	├─ dft_log_example.jpg
+	|   	|   	└─ hw1.md
+	|   	├─ Homework2/*
+	|   	|   	└─ hw2.md
+	|   	├─ Homework3/*
+	|   	|   	├─ hw3.md
+	|   	|   	├─ MP_Swagger_UI.jpg
+	|   	|   	└─ perovskite_structure.jpg
+	|   	├─ Homework4/*
+	|   	|   	└─ hw4.md
+	|   	└─ Homework5/*
+	|           	└─ hw5.md
+	├─ Projects/*
+	|   	├─ final_project_rubric.md
+	|   	├─ paper_template_option1.docx
+	|   	└─ paper_template_option2.docx
+	├─ Resources/*
+	|   	├─ Papers/*
+	|   	|   	├─ Musil_Chemical_Reviews_2021_Review-of-Descriptors.pdf
+	|   	|   	├─ Scheffler_Nature_22_FAIR Data and MSE.pdf
+	|   	|   	└─ Wang_Chem_Mat_20_Best Practices ML.pdf
+	|   	├─ materials_databases.md
+	|   	├─ Python_resources.md
+	|   	├─ tables.md
+	|   	└─ VSCode_cheatsheet.md
+	├─ Solutions/*
+	|   	├─ 02_Python_Crash_Course_1.ipynb
+	|   	├─ 03_Python_Crash_Course_2.ipynb
+	|   	├─ 04_data_science_basics.ipynb
+	|   	├─ 05_ML_basics_1.ipynb
+	|   	├─ 06_ML_basics_2.ipynb
+	|   	├─ 07_pymatgen_tutorial.ipynb
+	|   	├─ 08_OOP_Tutorial.ipynb
+	|   	└─ band_gap_data.json
+	├─ utils/*
+	|   	└─ plot_functions.py
+	├─ Week1/*
+	|   	└─ 01_Introduction.pdf
+	├─ Week2/*
+	|   	├─ images/*
+	|   	|   	├─ gh_new_repo.jpg
+	|   	|   	├─ gh_new_repo_access.jpg
+	|   	|   	├─ gh_new_repo_details.jpg
+	|   	|   	├─ gh_signin.jpg
+	|   	|   	├─ gh_vscode_fetch.jpg
+	|   	|   	├─ gh_vscode_icons.jpg
+	|   	|   	├─ gh_vscode_icons_final.jpg
+	|   	|   	├─ GitHub.jpg
+	|   	|   	├─ GitHub_fetch.jpg
+	|   	|   	├─ list_indexing.jpg
+	|   	|   	├─ VSCode_extensions.jpg
+	|   	|   	├─ VSCode_extension_request.jpg
+	|   	|   	├─ VSCode_final.jpg
+	|   	|   	├─ VSCode_final_annotated.jpg
+	|   	|   	├─ VSCode_jupyter_kernel.jpg
+	|   	|   	└─ VSCode_original.jpg
+	|   	├─ 02_installation_instructions.md
+	|   	├─ 02_Python_Crash_Course_1.ipynb
+	|   	├─ 02_Python_Crash_Course_1.pdf
+	|   	├─ 02_setup_github_VSCode.md
+	|   	└─ 03_Python_Crash_Course_2.ipynb
+	├─ Week3/*
+	|   	├─ 04_data_science_basics.ipynb
+	|   	├─ 05_Machine_Learning_Basics_1.pdf
+	|   	├─ 05_ML_basics_1.ipynb
+	|   	├─ 05_Notes_Multilinear_Regression.pdf
+	|   	└─ band_gap_data.json
+	├─ Week4/*
+	|   	├─ 06_Machine_Learning_Basics_2.pdf
+	|   	├─ 06_ML_basics_2.ipynb
+	|   	├─ 07_Crystallography_Crash_Course_and_Pymatgen.pdf
+	|   	└─ 07_pymatgen_tutorial.ipynb
+	├─ Week5/*
+	|   	├─ 08_import_test.py
+	|   	├─ 08_OOP_Tutorial.ipynb
+	|   	├─ 08_slattice.py
+	|   	├─ 09_Data_Types_and_Databases_in_MatSci.pdf
+	|   	├─ 09_Materials_Project_Tutorial.ipynb
+	|   	└─ mp_data.csv
+	├─ Week6/*
+	|   	├─ 10_Featurization_in_MatSci.ipynb
+	|   	├─ 10_Featurization_of_Materials.pdf
+	|   	├─ 10_references.md
+	|   	├─ 11_Demonstration_of_MatSci-ML_Pipeline.pdf
+	|   	└─ 11_Full_MatSci-ML_Pipeline.ipynb
+	├─ Week7/*
+	|   	├─ 12_OOD_with_Matfold.ipynb
+	|   	├─ 12_Project_Discussions.pdf
+	|   	├─ 12_Sign-up_Sheets.md
+	|   	├─ 13_Atomistic_Modeling_1-Molecular_Dynamics.pdf
+	|   	└─ 13_MD_with_ASE.ipynb
+	├─ Week8/*
+	|   	├─ 14_Atomistic_Modeling_2-Density_Functional_Theory.pdf
+	|   	├─ 14_DFT_GPAW_ASE_Demo_Link.md
+	|   	├─ 15_Deep_Learning.pdf
+	|   	└─ 15_Interactive_Demo_Links.md
+	├─ Week9/*
+	|   	├─ 16_Links_to_Colab_Notebooks.md
+	|   	├─ 16_LLMs_in_MatSci.pdf
+	|   	├─ 17_Instructions.md
+	|   	├─ 17_MLIPs.ipynb
+	|   	├─ 17_MLIPs.pdf
+	|   	├─ pyproject.toml
+	|   	└─ uv.lock
+	├─ Week12/*
+	|   	├─ 18_Leveraging_Symmetry_for_Learning_in_Physical_Systems.pdf
+	|   	└─ 19_LLM_Classification.pdf
+	├─ Week13/*
+	|   	├─ 20_ML_for_SRO_in_HEAs_Interactive.md
+	|   	└─ 20_ML_for_SRO_in_HEAs_Slides.pdf
+	├─ .gitignore
+	├─ .python-version
+	├─ logo.svg
+	├─ pyproject.toml
+	├─ README.md
+	├─ Syllabus-ST-ML_for_Materials-Fall2025.pdf
+	└─ uv.lock
+```

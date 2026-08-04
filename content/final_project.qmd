@@ -2,22 +2,50 @@
 title: Projects
 ---
 
-## Topics
+## Student Paper Presentations
 
-The topic selection takes place on a Google Sheet (link will be provided later) in which you can select 
-from a list of topics or come up with your own topic.\
-Ideally, there will be 1 topic per student.
+- Pick a **recent publication** (or a few related ones) in the *Materials + AI* domain.
+- Focus on topics we have **not** covered in class or on interesting applications.
+- Sign up for a presentation slot (two available dates) on the Google Sheet (link will be provided).
+  Sign-up is first come, first serve (you need to select a paper to sign up).
+- Prof. Peter will approve each paper in the Google Sheet.
+- Duration: **15 minutes** (12 min presentation + 3 min Q&A).
+
+
+## Individual Final Project
+
+Choose **one** of the two options below.
+
+### Option 1 — Full ML Pipeline
+
+- Select a **target materials class** (e.g., 2D materials, perovskites, metal oxides) and a
+  **target materials property** (can be experimental or computational).
+- Conduct a **literature review** of available datasets and prior ML efforts.
+- Collect relevant datasets and perform data cleaning.
+  Matminer and Materials Project data may **not** be used (all other sources are ok).
+- Carry out the full ML pipeline with **two featurizers**.
+
+### Option 2 — Atomistic Simulation with MLIPs
+
+- Identify an **atomistic simulation** problem/system.
+- Conduct a **literature review** on the appropriate modeling approach.
+- Simulate the system using **ML Interatomic Potentials (MLIPs)**.
+- This can either involve *molecular dynamics* workflows or DFT-like property predictions
+  involving *total energy predictions*.
 
 
 ## Deliverables
 
-Details will be added here soon.
+**Short Project Summary:**
+2–3 pages summarizing the relevant literature and the high-level ML pipeline (data cleaning,
+featurization, ML algorithm, hyperparameters, performance metrics) or MLIP approach (model
+chosen, summary of model predictions).
 
+**GitHub Repository:**
 
-## Timeline
+- Contains the entire code to recreate the ML pipeline, plots, and results.
+- Contains a summary JSON or CSV file with all main performance metrics.
+- Contains PNGs of all relevant plots.
 
-Details will be added soon.
-
-## Evaluation
-
-Details will be added soon.
+**Final Presentation:**
+25 minutes (20 min presentation + 5 min Q&A).
